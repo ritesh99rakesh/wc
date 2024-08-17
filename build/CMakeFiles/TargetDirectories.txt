@@ -1,0 +1,10 @@
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/wc_lib.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/wc_exe.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/package.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/package_source.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/edit_cache.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/rebuild_cache.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/list_install_components.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/install.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/install/local.dir
+/Users/krishna/src/coding_challenges/cc1/wc/build/CMakeFiles/install/strip.dir
